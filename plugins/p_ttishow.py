@@ -39,7 +39,7 @@ async def save_group(bot, message):
             return
         buttons = [[
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/TELUGUMOVIESCLUBCHART"),
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/TELUGUMOVIESCLUBZ")
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/+siCzyUXv2b8yNGZl")
                  ],[
                     InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/royal_el_latino")
                   ]]
@@ -62,7 +62,7 @@ async def save_group(bot, message):
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/TELUGUMOVIESCLUBCHART"),
-                                                                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/TELUGUMOVIESCLUBZ")
+                                                                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/+siCzyUXv2b8yNGZl")
                                                                         ],[
                                                                            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/royal_el_latino")
                                                                          ]]
